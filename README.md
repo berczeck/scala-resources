@@ -6,7 +6,7 @@
 
 **[Akka](http://akka.io/)** is a toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
 
-**[Play](https://www.playframework.com/)** is based on a lightweight, stateless, web-friendly architecture.
+**[Play](https://www.playframework.com/)** is an open source web application framework which follows the model–view–controller (MVC) architectural pattern.
 
 **[Spray](http://spray.io/)** is an open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka. Being asynchronous, actor-based, fast, lightweight, modular and testable it's a great way to connect your Scala applications to the world.
 
