@@ -3,9 +3,13 @@
 > A curated list of Scala, Akka, Play, Spray and Akka-Http resources.
 
 **[Scala](http://www.scala-lang.org/)** began life in 2003, created by Martin Odersky and his research group at EPFL, next to Lake Geneva and the Alps, in Lausanne, Switzerland. Scala has since grown into a mature open source programming language, used by hundreds of thousands of developers, and is developed and maintained by scores of people all over the world.
+
 **[Akka](http://akka.io/)** is a toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
+
 **[Play](https://www.playframework.com/)** is based on a lightweight, stateless, web-friendly architecture.
+
 **[Spray](http://spray.io/)** is an open-source toolkit for building REST/HTTP-based integration layers on top of Scala and Akka. Being asynchronous, actor-based, fast, lightweight, modular and testable it's a great way to connect your Scala applications to the world.
+
 **[Akka-Http](http://doc.akka.io/docs/akka-http/current/scala.html)** it’s not a web-framework but rather a more general toolkit for providing and consuming HTTP-based services. While interaction with a browser is of course also in scope it is not the primary focus of Akka HTTP.
 
 ## Contents
@@ -64,5 +68,3 @@
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Nick Chamberlain](https://buildplease.com) has waived all copyright and related or neighboring rights to this work.
