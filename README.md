@@ -21,7 +21,6 @@
 - [Blogs](#blogs)
 - [Sample Projects](#sample-projects)
 - [Libraries and Frameworks](#libraries-and-frameworks)
-- [Podcasts and Interviews](#podcasts-and-interviews)
 - [User Groups](#user-groups)
 
 ## Books
@@ -34,36 +33,49 @@
 
 ## Video Collections
 
-- [DDD Europe](https://dddeurope.com) - Recordings of talks given at DDD Europe.
+- [Scala days New York 2016](https://www.youtube.com/watch?v=RUTeY4E2MoQ&list=PLLMLOC3WM2r5gdnpoZSTuM9Fh2QN_mABA) 
+- [Scala days Berlin 2016](https://www.youtube.com/watch?v=GHzWqJKFCk4&list=PLLMLOC3WM2r7kLKJPHKnyJgdiBGWaKlJf) 
 
 ## Training Courses
 
-- [Domain Language eLearning](http://elearn.domainlanguage.com/) - Using our video lessons with Eric Evans, author of the original book on Domain-Driven Design (DDD), teach yourself techniques for evolving practical models that improve your software — not just your documents.
+- [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) - In this course you will discover the elements of the functional programming style and learn how to apply them usefully in your daily programming tasks.
+- [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2) - In this course you will learn how to apply the functional programming style in the design of larger applications.
+- [Parallel programming](https://www.coursera.org/learn/parprog1) -  In this course, you'll learn the fundamentals of parallel programming, from task parallelism to data parallelism. In particular, you'll see how many familiar ideas from functional programming map perfectly to to the data parallel paradigm.
+- [Introduction to scala](https://bigdatauniversity.com/courses/introduction-to-scala/) - Learn the foundations of the language for developers and data scientists interested in using Scala for data analysis.
+- [Learn By Example: Scala](https://www.udemy.com/learn-by-example-scala/)
+- [Beginning Scala Programming](https://www.udemy.com/beginning-scala-programming/)
+- [Learn To Build Scala Apps From Scratch](https://www.udemy.com/learn-to-build-scala-apps-from-scratch/) 
+- [Scala for Java Developers](https://app.pluralsight.com/library/courses/scala-for-java-developers/table-of-contents) - This course is for Java developers looking to transition to programming in Scala. Translate what you already know in Java to Scala and start your functional programming journey.
+- [Scala: Getting Started](https://app.pluralsight.com/library/courses/scala-getting-started/table-of-contents) - This course will teach enough of the basics of Scala to enable you to start writing less boiler-plate code and more business code.
 
 ## Community Resources
 
-- [DDD/CQRS Google Group](https://groups.google.com/forum/?utm_source=digest&utm_medium=email#!forum/dddcqrs) - An active mailing list and an excellent resource to ask questions and learn fine-grained details about DDD/CQRS.
+- [Scala School!](http://twitter.github.io/scala_school/) 
+- [Effective scala](http://twitter.github.io/effectivescala/) 
 
 ## Blogs
 
-- [Nick Chamberlain](https://buildplease.com) - Helpful development and design advice for .NET developers.
+- [Scala Officila Blog](http://www.scala-lang.org/blog/)
+- [Lightbend Scala blog](https://www.lightbend.com/blog/scala)
+- [Akka blog](http://blog.akka.io/)
+- [Lightbend Akka blog](https://www.lightbend.com/blog/akka)
+- [Lightbend Play blog]](https://www.lightbend.com/blog/play)
 
 ## Sample Projects
 
-- [Reactive Trader Cloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Reactive Trader Cloud by Adaptive Consulting.
+- [Learn Scala by examples](https://github.com/jaceklaskowski/scalania) - The project's aim is to smooth your learning path to master Scala programming language.
 
 ## Libraries and Frameworks
 
-- [Event Store](https://geteventstore.com) - The open-source, functional database with Complex Event Processing in JavaScript.
-
-## Podcasts and Interviews
-
-- [Deeper into DDD on DotNetRocks with David Real](http://dotnetrocks.com/?show=1151) - 11 June 2015.
+- [Sangria](http://sangria-graphql.org/) - Scala GraphQL Implementation
 
 ## User Groups
 
-- [Belgium](http://www.meetup.com/dddbelgium/)
-
+- [Scala](https://gitter.im/scala/scala?source=orgpage)
+- [Akka](https://gitter.im/akka/akka)
+- [Play](https://gitter.im/playframework/playframework)
+- [Spray](https://gitter.im/spray/spray)
+- [Akka-Http](https://gitter.im/theiterators/akka-http-microservice)
 
 ## License
 
