@@ -30,6 +30,7 @@
 - [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala) - is a serious tutorial for programmers looking to learn FP and apply it to the everyday business of coding. 
 - [Akka in Action](https://www.manning.com/books/akka-in-action) - Akka in Action is a comprehensive tutorial on building message-oriented systems using Akka. 
 - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling) - teaches you how to think of the domain model in terms of pure functions and how to compose them to build larger abstractions.
+- [Scala Cookbook: Recipes for Object-Oriented and Functional Programming](https://www.amazon.com/Scala-Cookbook-Object-Oriented-Functional-Programming-ebook/dp/B00EA66OM8/ref=mt_kindle?_encoding=UTF8&me=)
 
 ## Video & Collections
 
