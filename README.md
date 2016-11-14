@@ -16,7 +16,7 @@
 
 - [Books](#books)
 - [Training Courses](#training-courses)
-- [Video Collections](#video-collections)
+- [Video 6 Collections](#video-collections)
 - [Community Resources](#community-resources)
 - [Blogs](#blogs)
 - [Sample Projects](#sample-projects)
@@ -31,10 +31,11 @@
 - [Akka in Action](https://www.manning.com/books/akka-in-action) - Akka in Action is a comprehensive tutorial on building message-oriented systems using Akka. 
 - [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling) - teaches you how to think of the domain model in terms of pure functions and how to compose them to build larger abstractions.
 
-## Video Collections
+## Video & Collections
 
 - [Scala days New York 2016](https://www.youtube.com/watch?v=RUTeY4E2MoQ&list=PLLMLOC3WM2r5gdnpoZSTuM9Fh2QN_mABA) 
 - [Scala days Berlin 2016](https://www.youtube.com/watch?v=GHzWqJKFCk4&list=PLLMLOC3WM2r7kLKJPHKnyJgdiBGWaKlJf) 
+- [Domain Driven Design and Onion Architecture in Scala - by Wade Waldron](https://www.youtube.com/watch?v=MnNeDXg3Qao)
 
 ## Training Courses
 
@@ -59,7 +60,7 @@
 - [Lightbend Scala blog](https://www.lightbend.com/blog/scala)
 - [Akka blog](http://blog.akka.io/)
 - [Lightbend Akka blog](https://www.lightbend.com/blog/akka)
-- [Lightbend Play blog]](https://www.lightbend.com/blog/play)
+- [Lightbend Play blog](https://www.lightbend.com/blog/play)
 
 ## Sample Projects
 
