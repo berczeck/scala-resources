@@ -62,6 +62,8 @@
 - [Akka blog](http://blog.akka.io/)
 - [Lightbend Akka blog](https://www.lightbend.com/blog/akka)
 - [Lightbend Play blog](https://www.lightbend.com/blog/play)
+- [Akka-Play manuel bernhardt](http://manuel.bernhardt.io/)
+- [Scala-alvin alexander](http://alvinalexander.com/scala/)
 
 ## Sample Projects
 
